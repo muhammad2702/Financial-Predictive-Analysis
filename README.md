@@ -1,4 +1,4 @@
-# Financial Data Analysis Pipeline
+# Financial Data Analysis Pipeline using Decision tree Algorithm with Noise-Elimination 
 
 This repository contains scripts for preprocessing financial data and building an XGBoost classification model to predict price movement. The following sections detail the structure of the repository and guide you through using these scripts effectively.
 
