@@ -37,7 +37,7 @@ The main.py script demonstrates the following workflow:
 ## Usage
 To utilize this repository, follow these steps:
 
-- Clone the repository: git clone https://github.com/yourusername/financial-analysis.git.
+- Clone the repository
 - Place your historical price data CSV file as BTC-USD.csv in the repository folder.
 - Run preprocess.py to preprocess the data: python preprocess.py.
 - Run main.py to build and evaluate the XGBoost model: python main.py.
